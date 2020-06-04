@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'simple_form'
 gem 'devise'
+gem 'haml'
 
 group :development, :test do
   gem 'pry'
