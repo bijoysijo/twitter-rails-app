@@ -1,0 +1,2 @@
+class TweeetsController < ApplicationController
+end
