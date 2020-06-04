@@ -13,6 +13,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'simple_form'
 gem 'devise'
 gem 'haml'
+gem 'gravatar_image_tag'
 
 group :development, :test do
   gem 'pry'
