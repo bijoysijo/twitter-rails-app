@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resource :tweeets
   root 'tweeets#index'
-
+  resources :tweeets
 end
